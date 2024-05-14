@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\GameDev\\UnrealEngine\\ObstacleAssult\\Source\\ObstacleAssult\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\GameDev\\UnrealEngine\\ObstacleAssult\\.vscode\\compileCommands_Default\\ObstacleAssult.255.rsp"
+		],
+		"directory": "D:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\GameDev\\UnrealEngine\\ObstacleAssult\\Source\\ObstacleAssult\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\GameDev\\UnrealEngine\\ObstacleAssult\\.vscode\\compileCommands_Default\\ObstacleAssult.255.rsp"
+		],
+		"directory": "D:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\GameDev\\UnrealEngine\\ObstacleAssult\\Source\\ObstacleAssult\\ObstacleAssult.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\GameDev\\UnrealEngine\\ObstacleAssult\\.vscode\\compileCommands_Default\\ObstacleAssult.255.rsp"
+		],
+		"directory": "D:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\GameDev\\UnrealEngine\\ObstacleAssult\\Source\\ObstacleAssult\\ObstacleAssult.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\GameDev\\UnrealEngine\\ObstacleAssult\\.vscode\\compileCommands_Default\\ObstacleAssult.255.rsp"
+		],
+		"directory": "D:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\GameDev\\UnrealEngine\\ObstacleAssult\\Source\\ObstacleAssult\\ObstacleAssult.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\GameDev\\UnrealEngine\\ObstacleAssult\\.vscode\\compileCommands_Default\\ObstacleAssult.255.rsp"
+		],
+		"directory": "D:\\UE_5.2\\Engine\\Source"
+	}
+]
